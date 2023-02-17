@@ -1,0 +1,72 @@
+Beast-M Scaling Orb ---> Initial-DMG 200%   Upgrade-DMG 250%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Minato (Chakra Mode))</font> 2 
+Black Hole Orb ---> Initial-RNG 20%   SPA -2   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(WanoBlackbeard)</font> 2 
+Blooming Orb ---> Initial-DMG 800%   Upgrade-DMG 2000%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Byakuya)</font> 2 
+BlueEye Orb ---> Initial-RNG 30% 0 
+Bomba Orb ---> Boost initial spawn DMG by 30% 0 
+Controled Beast Variant Orb ---> Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Naruto StarPass7)</font> 0 
+Controled Samurai Variant Orb ---> Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Sasuke StarPass7)</font> 0 
+Cost Orb ---> Reduce initial COST by $100 0 
+Crywolf Orb ---> DMG 1700%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Coyote Starrk)</font> 1 
+Dark Spiritual Orb ---> Initial-DMG 200%   Upgrade-DMG 15%   Final Upgrade: Slow Effect + Attacks Air   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Mugetsu Ichigo)</font> 3 
+Death Orb ---> DMG 500%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Light Yagami)</font> 1 
+Demon M Orb ---> Initial-DMG 500%   Upgrade-DMG 1000%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Super Buu)</font> 2 
+Demonic Orb ---> Initial-DMG 100%   Upgrade-DMG 225%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Demon Yusuke)</font> 2 
+Fire Rage Orb ---> Boost initial spawn DMG by 100% 0 
+Froozen Giant Orb ---> Initial-DMG 200%   Upgrade-DMG 500%   Add special skill Requires: CHAR(Annie) 2 
+God Earring LEFT Orb ---> Allow two individual with ring to fuse   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Goku)</font> 1 
+God Earring RIGHT Orb ---> Allow two individual with ring to fuse   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Vegeta)</font> 1 
+God Heart Orb ---> Initial-DMG 800%   Upgrade-DMG 900%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Netero)</font> 2 
+Golden-F Scaling Orb ---> Initial-DMG 200%   Upgrade-DMG 100%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Golden Frieza)</font> 2 
+Gravity Orb ---> Initial-DMG 2000%   Upgrade-DMG 2500%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Fujitora)</font> 2 
+Green Natural Orb ---> DMG 2350%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Broly LSSJ (Super))</font> 1 
+Level 1 Dark Orb ---> Adds Dark damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(104, 0, 127)'> Dark Unit</font> 2 
+Level 1 Electric Orb ---> Adds Electric damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(254, 213, 70)'> Electric Unit</font> 2 
+Level 1 Fire Orb ---> Adds Fire damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(255, 0, 0)'> Fire Unit</font> 2 
+Level 1 Holy Orb ---> Adds Holy damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(75, 75, 75)'> Holy Unit</font> 2 
+Level 1 Nature Orb ---> Adds Nature damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 255, 0)'> Nature Unit</font> 2 
+Level 1 Water Orb ---> Adds Water damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 180, 255)'> Water Unit</font> 2 
+Level 2 Dark Orb ---> Adds Dark damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(104, 0, 127)'> Dark Unit</font> 2 
+Level 2 Electric Orb ---> Adds Electric damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(254, 213, 70)'> Electric Unit</font> 2 
+Level 2 Fire Orb ---> Adds Fire damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(255, 0, 0)'> Fire Unit</font> 2 
+Level 2 Holy Orb ---> Adds Holy damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(75, 75, 75)'> Holy Unit</font> 2 
+Level 2 Nature Orb ---> Adds Nature damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 255, 0)'> Nature Unit</font> 2 
+Level 2 Water Orb ---> Adds Water damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 180, 255)'> Water Unit</font> 2 
+Level 3 Dark Orb ---> Adds Dark damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(104, 0, 127)'> Dark Unit</font> 2 
+Level 3 Electric Orb ---> Adds Electric damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(254, 213, 70)'> Electric Unit</font> 2 
+Level 3 Fire Orb ---> Adds Fire damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(255, 0, 0)'> Fire Unit</font> 2 
+Level 3 Holy Orb ---> Adds Holy damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(75, 75, 75)'> Holy Unit</font> 2 
+Level 3 Nature Orb ---> Adds Nature damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 255, 0)'> Nature Unit</font> 2 
+Level 3 Water Orb ---> Adds Water damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 180, 255)'> Water Unit</font> 2 
+Level 4 Dark Orb ---> Adds Dark damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(104, 0, 127)'> Dark Unit</font> 2 
+Level 4 Electric Orb ---> Adds Electric damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(254, 213, 70)'> Electric Unit</font> 2 
+Level 4 Fire Orb ---> Adds Fire damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(255, 0, 0)'> Fire Unit</font> 2 
+Level 4 Holy Orb ---> Adds Holy damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(75, 75, 75)'> Holy Unit</font> 2 
+Level 4 Nature Orb ---> Adds Nature damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 255, 0)'> Nature Unit</font> 2 
+Level 4 Water Orb ---> Adds Water damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 180, 255)'> Water Unit</font> 2 
+Level 5 Dark Orb ---> Adds Dark damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(104, 0, 127)'> Dark Unit</font> 2 
+Level 5 Electric Orb ---> Adds Electric damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(254, 213, 70)'> Electric Unit</font> 2 
+Level 5 Fire Orb ---> Adds Fire damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(255, 0, 0)'> Fire Unit</font> 2 
+Level 5 Holy Orb ---> Adds Holy damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(75, 75, 75)'> Holy Unit</font> 2 
+Level 5 Nature Orb ---> Adds Nature damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 255, 0)'> Nature Unit</font> 2 
+Level 5 Water Orb ---> Adds Water damage to a unit, which scales with upgrades   (DISABLED IN INFINITE MODE)   Requires: <font color='rgb(0, 180, 255)'> Water Unit</font> 2 
+Lightning Breath Orb ---> Initial-DMG 900%   Upgrade-DMG 2500%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Zenitsu)</font> 2 
+Limitation Orb ---> Initial-DMG 700%   Upgrade-DMG 1600%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Gon (Grown))</font> 2 
+Mera Orb ---> Initial-DMG 600%   Upgrade-DMG 1000%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Ace)</font> 2 
+Moon Orb ---> Moon Transformation   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Goku GT)</font> 1 
+Operator Orb ---> Special-Skill can teleport 8 more enemies   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Law)</font> 1 
+Path Orb ---> Initial-DMG 100%   Upgrade-DMG 100%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Nagato)</font> 2 
+Paw Orb ---> Initial-DMG 1250%   Upgrade-DMG 600%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Kuma)</font> 2 
+PinkStar Orb ---> DMG 200%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Giorno Giovanna (Requiem))</font> 1 
+Prey Eye Orb ---> Initial-RNG 10%   COST -$50   Initial-DMG 15% 2 
+Quake Orb ---> Initial-DMG 100%   Upgrade-DMG 100%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Whitebeard (Final))</font> 2 
+Rainbow Magic Orb ---> DMG 2000%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Gogeta)</font> 1 
+Reset Orb ---> Add an additional upgrade to Kiryu 6 0 
+Rose Orb ---> Initial-DMG 500%   Upgrade-DMG 2000%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Goku Black Rose)</font> 2 
+Snake Orb ---> Initial-DMG 100%   Upgrade-DMG 100%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Luffy Snake Man)</font> 2 
+Snow Orb ---> Initial-DMG 200%   Upgrade-DMG 100%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Rukia (Bankai))</font> 2 
+Supa Future Orb ---> DMG 350%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(SSJ Trunks)</font> 1 
+Super BlueEye Orb ---> Initial-RNG 40% 0 
+The Hawk Orb ---> DMG 1300%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Mihawk)</font> 1 
+Titanic Orb ---> Initial-DMG 500%   Upgrade-DMG 1000%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Armin)</font> 2 
+Universal Reduction Orb ---> Reduce total cost by 15% 0 
+Venomous Orb ---> DMG 500%   Requires: <font color= 'rgb(96, 255, 158)'>CHAR(Magellan)</font> 1 
