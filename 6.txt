@@ -39,8 +39,8 @@ Challenger Rengoku
 DIO OH 
 Dan Kouzo 
 DarkRukia 
-Deku (blackwhip) 
 Deku [Black Whip] 
+DekuEvolve 
 Devilman 
 Dimple 1 
 Dimple 2 
@@ -150,7 +150,7 @@ Nagato
 Naofumi 
 Nappa 
 Naruto Sage Of The Six Paths 
-Naruto StarPass6
+Naruto StarPass6 
 Naruto [1 Tails] 
 Naruto [2 Tails] 
 Naruto [3 Tails] 
@@ -250,4 +250,5 @@ ZeroTwo
 Zeus 
 Zoro (F)6 
 cumber 
+deku (blackwhip) 
 light (shinigami) 
