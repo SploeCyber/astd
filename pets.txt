@@ -1,0 +1,1 @@
+{ "Fire", "Lightning", "Wind", "Water", "Ghost", "Fairy", "SmallerDragon", "Magic", "PurpleDemon", "Rock", "Lance", "Old book", "bird" }
