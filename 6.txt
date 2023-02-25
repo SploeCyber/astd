@@ -1,10 +1,23 @@
 100% Egg - Dark 
+17 Stardust 
+2000 Gems 
+250 Gems 
+31 Stardust 
+375 Stardust 
+3x Speed 
+475 Gems 
+5 Stardust 
+50 Gems 
 80% Egg - Neon 
 90% Egg - Leaf 
+925 Gems 
+97 Stardust 
 Abarai6 
 AceNew6 
 Adult Gohan Ultimate 
+Aizen6 
 Akainu6 
+Alibaba (Full Djinn) 
 Alice6 
 Alien Soldier [Friend] 
 Alucard 
@@ -35,17 +48,17 @@ Broly (F)6
 Brook6 
 CHAINSAWMAN 
 Calloway Storm 
+Car Display 
 Challenger Rengoku 
+Cloud Display 
 DIO OH 
 Dan Kouzo 
 DarkRukia 
 Deku [Black Whip] 
 DekuEvolve 
+DemonMarkToken 
 Devilman 
 Diane 
-Dimple 1 
-Dimple 2 
-Dimple 3 
 Doflamingo6 
 EXP IV 
 Earing 
@@ -99,6 +112,7 @@ JackHanma
 Jackie Chun 
 Jeanne 
 Jiren 
+Jogo(JJk) 
 Jotaro Kujo P4 
 Jotaro Over Heaven 
 Jozu 
@@ -119,10 +133,12 @@ Kiritsugu
 Kisame 
 Kisuke6 
 KrillinSupa 
+Kuma(6) 
 Kyojuro Rengoku Final 
 Lancelot 
 Large Mother 
 Large Mother (Mad) 
+Large Mother Big 
 Last master (rage) 
 Laxus 
 Levi [Rage Mode] 
@@ -136,6 +152,7 @@ Magnus Black
 MaskHollow 
 Mecha Frieza 
 Megumin6 
+Meliodas(Assault) 
 Might Guy (8) 
 MikasaS4 
 Milim Nava 
@@ -164,6 +181,7 @@ Padoru
 Perfect Cooler 
 Perona 
 Pink Candy 
+Pod Display 
 Poseidon 
 Raditz6 
 Rayleigh 
@@ -184,6 +202,7 @@ SSJ God Trunks
 SSJB Goku 
 SSJG Goku 
 Sadao 
+SaiyamanGohan 
 SamuraiEvolve 
 SamuraiEvolve2 
 Sanji Wano 
@@ -221,10 +240,12 @@ Tsuna (Future)
 Turles 
 Twice 
 Ulquiorra 
+UltraToken 
 Ungalo 
 Uryu5 
 Uub (Fusion) 
 Uzui 
+VIP 
 Vegeta (F)6 
 Vegeta GT4 
 Vegito 
